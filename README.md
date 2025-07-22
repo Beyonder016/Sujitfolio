@@ -6,8 +6,9 @@
 
 AI/ML engineer by profession, a creator at heart.
 
-This is the **updated version of my personal website—now fully interactive in 3D. 
-LFG!💪**
+This is the **updated version of my personal website—now fully interactive in 3D.**
+
+**LFG!💪**
 
 🚀 **[Check out the live version →](https://sujithulule.github.io)**
 
