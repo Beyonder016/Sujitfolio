@@ -1,4 +1,4 @@
-# 🚀 [View Live Portfolio →](https://sujithulule.github.io)
+# 🚀 [View Live Portfolio →](sujitfolio-pquh.vercel.app)
 
 ---
 
@@ -10,7 +10,7 @@ This is the **updated version of my personal website—now fully interactive in 
 
 **LFG!💪**
 
-🚀 **[Check out the live version →](https://sujithulule.github.io)**
+🚀 **[Check out the live version →](sujitfolio-pquh.vercel.app)**
 
 
 ---
