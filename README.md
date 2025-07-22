@@ -2,12 +2,6 @@
 
 ---
 
-## 🌍 **Visit Here**
-
-🔗 **[Click Here to View the Portfolio Live](https://sujithulule.github.io)**
-
----
-
 ## 🧠 Sujit Hulule – Interactive AI/ML Portfolio
 
 Welcome to my personal portfolio!
