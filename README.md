@@ -1,7 +1,3 @@
-# 🚀 [View Live Portfolio →](sujitfolio-pquh.vercel.app)
-
----
-
 # 👋 Hello there! I'm Sujit Hulule
 
 AI/ML engineer by profession, a creator at heart.
@@ -12,6 +8,17 @@ This is the **updated version of my personal website—now fully interactive in 
 
 🚀 **[Check out the live version →](sujitfolio-pquh.vercel.app)**
 
+
+---
+
+## Preview
+Some of the sample images from the app. Better to check it out live!
+
+<img width="1910" height="867" alt="Image" src="https://github.com/user-attachments/assets/42dbe36e-ee2c-437e-986d-acc986c34a4e" />
+
+<img width="1913" height="870" alt="Image" src="https://github.com/user-attachments/assets/5552d25a-37ac-4e74-b69a-24ded5627829" />
+
+<img width="1907" height="872" alt="Image" src="https://github.com/user-attachments/assets/1629a70a-c032-42fc-b8af-593aac104eb3" />
 
 ---
 
