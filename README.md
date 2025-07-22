@@ -2,6 +2,12 @@
 
 ---
 
+## 🌍 **Portfolio**
+
+🔗 **[Click Here to View the Portfolio Live](https://sujithulule.github.io)**
+
+---
+
 ## 🧠 Sujit Hulule – Interactive AI/ML Portfolio
 
 Welcome to my personal portfolio!
@@ -55,12 +61,6 @@ npm run dev
 ```
 
 Visit: **[http://localhost:3000](http://localhost:3000)**
-
----
-
-## 🌍 **Live Demo**
-
-🔗 **[Click Here to View the Portfolio Live](https://sujithulule.github.io)**
 
 ---
 
