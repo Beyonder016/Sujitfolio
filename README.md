@@ -2,53 +2,32 @@
 
 ---
 
-## 🧠 Sujit Hulule – Interactive AI/ML Portfolio
+# 👋 Hello there! I'm Sujit Hulule
 
-Welcome to my personal portfolio!
-This is a **fully interactive 3D and AI/ML-powered website** built with:
+AI/ML engineer by profession, a creator at heart.
 
-* **Next.js** (App Router, SSR support)
-* **Three.js & @react-three/fiber** (3D Canvas animations)
-* **GSAP & Framer Motion** (Smooth UI transitions)
-* **Tailwind CSS** (Utility-first styling)
+This is the **updated version of my personal website—now fully interactive in 3D. LFG!**
 
----
+🚀 **[Check out the live version →](https://sujithulule.github.io)**
 
-## 🎯 **Features**
-
-* **AI/ML Project Showcases**
-* **3D Interactive Animations**
-* **Creative Tech Stack Demos**
-* **Smooth Scroll & Dynamic UI**
 
 ---
 
 ## 🛠️ **Tech Stack**
-
-| Frontend | 3D/Graphics | Animations           | Deployment            |
-| -------- | ----------- | -------------------- | --------------------- |
-| Next.js  | Three.js    | GSAP / Framer Motion | Vercel / GitHub Pages |
-| React    | R3F (Fiber) | Scroll Controls      | Netlify (optional)    |
-| Tailwind | GLTF Models | Adaptive UI          |                       |
-
----
-
-## 📂 **Folder Structure**
-
-```
-/app        → App Router Pages & Components  
-/public     → Assets, Models, Fonts  
-/components → UI & 3D Components  
-/models     → 3D GLTF Models  
-/constants  → Data (Projects, Experience)  
-```
-
+* **Next.js**
+* **React**
+* **React-three-fiber**
+* **DREI**
+* **Next.js**
+* **GSAP**
+* **Zustand**
+* **Tailwind**
 ---
 
 ## 🚀 **Setup & Run Locally**
 
 ```bash
-git clone https://github.com/Beyonder016/your-repo-name
+git clone https://github.com/Beyonder016/Sujitfolio
 cd your-repo-name
 npm install
 npm run dev
